@@ -81,15 +81,6 @@ namespace Monitor_Lock
             }  
         }  
   
-        static void TestLock()  
-        {  
-            lock (_object)  
-            {  
-                Thread.Sleep(100);  
-                Console.WriteLine(Environment.TickCount);  
-            }  
-        }  
-  
         static void Main(string[] args)      
         {  
             Thread[] Threads = new Thread[3];  
