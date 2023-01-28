@@ -21,7 +21,6 @@ namespace Monitor_Lock
   
         static void TestLock()  
         {  
-              
             lock (_object)  
             {  
                 Thread.Sleep(100);  
