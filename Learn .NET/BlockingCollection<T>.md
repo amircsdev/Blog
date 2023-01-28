@@ -6,7 +6,7 @@
 Here is an example of how you might use a BlockingCollection<T> to create a producer-consumer pattern in C#:
 
 ``` C#
-  using System;
+using System;
 using System.Collections.Concurrent;
 using System.Threading;
 
