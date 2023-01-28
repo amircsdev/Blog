@@ -83,7 +83,6 @@ namespace Monitor_Lock
   
         static void TestLock()  
         {  
-              
             lock (_object)  
             {  
                 Thread.Sleep(100);  
@@ -93,8 +92,6 @@ namespace Monitor_Lock
   
         static void Main(string[] args)      
         {  
-  
-              
             Thread[] Threads = new Thread[3];  
             for (int i = 0; i < 3; i++)  
             {  
