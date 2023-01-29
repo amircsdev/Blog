@@ -1,5 +1,6 @@
 # Blog
-## Learn .NET
+## Learn .NET [Repository Name](https://github.com/username/repository)
+
 - BlockingCollection<T>
 - CancellationToken
 - ConcurrentBag<T>
