@@ -1,5 +1,5 @@
 # Blog
-## Learn .NET [Repository Name](https://github.com/username/repository)
+## [Learn .NET]([https://github.com/username/repository](https://github.com/amircsdev/Blog/tree/main/Learn%20.NET))
 
 - BlockingCollection<T>
 - CancellationToken
